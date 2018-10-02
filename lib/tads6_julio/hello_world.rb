@@ -2,7 +2,7 @@ module Tads6Julio
 
   class HelloWorld
 
-    def say
+    def self.say
       "Hello World"
     end
     
